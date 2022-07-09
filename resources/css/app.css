@@ -1,0 +1,31 @@
+.dropdown-toggle {
+    white-space: nowrap;
+    margin-left: 40rem !important;
+}
+ .strong {
+  font-weight: bolder;
+  font-size: x-large;
+}
+  .col-md-8 {
+   flex: 10%;
+max-width: 65%;
+margin-left: 50% !important;
+  }
+.modal-header {
+    display: -ms-flexbox;
+    display: flex;
+    background-color: antiquewhite;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: 1rem;
+    border-bottom: 1px solid #e9ecef;
+    border-top-left-radius: calc(0.3rem - 1px);
+    border-top-right-radius: calc(0.3rem - 1px);
+}
+.btn-link {
+    font-weight: 400;
+    color: white;
+    text-decoration: none;
+}
